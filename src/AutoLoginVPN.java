@@ -7,7 +7,7 @@ public class AutoLoginVPN {
         try {
             //delay between every click on enter (if your computer is slow make it high!)
             long sleepMillis = 5000;
-            String username = "max.mustermann@bechtle.com";
+            String username = "max.mustermann@mail.com";
             String password = "ThisIsAPassword!";
             //this is the default path
             String pathToAnyConnect = "/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app";
