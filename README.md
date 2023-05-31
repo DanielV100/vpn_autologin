@@ -12,7 +12,7 @@ This tool helps you to automatically login to Cisco AnyConnect without typing us
 1. Install vpn_autologin via terminal
 
 ```bash
-  https://github.com/DanielV100/vpn_autologin.git
+  git clone https://github.com/DanielV100/vpn_autologin.git
 ```
 
 2. Open the project then in your IDE (InelliJ recommended) and open
