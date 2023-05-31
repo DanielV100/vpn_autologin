@@ -9,6 +9,7 @@ public class AutoLoginVPN {
             long sleepMillis = 5000;
             String username = "max.mustermann@bechtle.com";
             String password = "ThisIsAPassword!";
+            //this is the default path
             String pathToAnyConnect = "/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app";
 
             Robot clickRobot = new Robot();
